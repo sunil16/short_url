@@ -17,7 +17,7 @@ And of course Short url service itself is open source with a [public repository]
 
 ### Installation
 
-Find Lat and Lng requires [Flask](https://flask.palletsprojects.com/en/1.1.x/) v1.1.1+ to run.
+Short url service requires [Flask](https://flask.palletsprojects.com/en/1.1.x/) v1.1.1+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
